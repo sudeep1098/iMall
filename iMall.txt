@@ -1,0 +1,2 @@
+MySQL DB Name	MySQL User Name	MySQL Password	MySQL Host Name	PHPMyAdmin
+if0_35209109_iMall	if0_35209109	HL0VM9KhlU	sql311.infinityfree.com	
